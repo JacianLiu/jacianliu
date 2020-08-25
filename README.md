@@ -9,13 +9,10 @@
 
 <code><img height="20" src="https://img.jacian.com/FpO_mt3xbgxjH6NZQF3ml62pqONu"></code>
 
-
-
-![Jacian's github stats](https://github-readme-stats.vercel.app/api?username=jacianliu&show_icons=true&)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jacianliu&repo=blog-source)](https://github.com/jacianliu/blog-source)
-
-
-
-### 
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacianliu&hide=html,javascript)](https://github.com/anuraghazra/github-readme-stats)-->
+<a href="https://github.com/jacianliu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacianliu&show_icons=true" alt="Jacian's github stats" />
+</a>
+<a href="https://github.com/jacianliu/blog-source">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacianliu&repo=blog-source" />
+</a>
 
