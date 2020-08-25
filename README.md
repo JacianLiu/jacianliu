@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm [Jacian](https://blog.jacian.com) 👋
 
-<!--
-**JacianLiu/jacianliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: [@Jacian_6](https://t.me/jacian_6)
+- 😄 Pronouns: Jacian
+- ⚡ Fun fact: 🎵 💻
 
-Here are some ideas to get you started:
+**Language:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://img.jacian.com/FpO_mt3xbgxjH6NZQF3ml62pqONu"></code>
+
+
+
+![Jacian's github stats](https://github-readme-stats.vercel.app/api?username=jacianliu&show_icons=true&)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jacianliu&repo=blog-source)](https://github.com/jacianliu/blog-source)
+
+### 
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacianliu&hide=html,javascript)](https://github.com/anuraghazra/github-readme-stats)-->
+
