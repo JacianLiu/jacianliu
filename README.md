@@ -12,7 +12,7 @@
 <a href="https://github.com/jacianliu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacianliu&show_icons=true" alt="Jacian's github stats" />
 </a>
-<a href="https://github.com/jacianliu/blog-source">
+<!--<a href="https://github.com/jacianliu/blog-source">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacianliu&repo=blog-source" />
-</a>
+</a> -->
 
