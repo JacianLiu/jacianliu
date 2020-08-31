@@ -7,7 +7,7 @@
 
 **Language:**  
 
-<code><img height="20" src="https://img.jacian.com/FpO_mt3xbgxjH6NZQF3ml62pqONu"></code>
+<code><img height="20" src="https://img.jacian.com/note/img/20200826162122.png"></code>
 
 <a href="https://github.com/jacianliu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacianliu&show_icons=true" alt="Jacian's github stats" />
