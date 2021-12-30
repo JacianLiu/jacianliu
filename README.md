@@ -14,7 +14,8 @@
 </a>
 <br/>
 <br/>
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=JacianLiu&hide_title=false&hide_border=true&layout=compact&theme=graywhite&locale=cn)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacianLiu&hide_title=false&hide_border=true&layout=compact&theme=graywhite&locale=cn" alt="Jacian's github stats" />
 
 <!--<a href="https://github.com/jacianliu/blog-source">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacianliu&repo=blog-source" />
