@@ -2,14 +2,14 @@
 
 为系统而生，为框架而死，为debug奋斗一辈子； 吃符号的亏，上大小写的当，最后死在子需求上。
 
-- 🌱 职业搬砖，只会Java
+- 🌱 职业搬砖，爱瞎折腾，只会Java
 - 🏡 个人主页: <a href="https://blog.jacian.com/" target="_blank">Blog</a> | <a href="https://github.com/JacianLiu/" target="_blank">GitHub</a>
 - ✉️ 邮箱: <a href="mailto:JacianLiu@gmail.com" target="_blank">JacianLiu@gmail.com</a>
 - 📫 电报: <a href="https://t.me/jacian_6" target="_blank">@Jacian_6</a>
 
-<!-- **Language:**  
+**Language:**  
 
-<code><img height="20" src="https://img.jacian.com/note/img/20200826162122.png"></code> -->
+<code><img height="20" src="https://img.jacian.com/note/img/20200826162122.png"></code>
 
 **Github Statistical Data:**
 
