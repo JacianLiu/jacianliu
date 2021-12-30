@@ -4,7 +4,7 @@
 
 - 🌱 职业搬砖，只会Java
 - 🏡 个人主页: <a href="https://blog.jacian.com/" target="_blank">Blog</a> | <a href="https://github.com/JacianLiu/" target="_blank">GitHub</a>
-- ✉️ 邮箱: [JacianLiu@gmail.com](mailto:JacianLiu@gmail.com)
+- ✉️ 邮箱: <a href="mailto:JacianLiu@gmail.com" target="_blank">JacianLiu@gmail.com</a>
 - 📫 电报: <a href="https://t.me/jacian_6" target="_blank">@Jacian_6</a>
 
 <!-- **Language:**  
