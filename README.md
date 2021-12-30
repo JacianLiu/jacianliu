@@ -10,7 +10,7 @@
 <code><img height="20" src="https://img.jacian.com/note/img/20200826162122.png"></code>
 
 <a href="https://github.com/jacianliu">
-  <img align="center" src="<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacianliu&show_icons=true" alt="Jacian's github stats" />" alt="Jacian's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacianliu&show_icons=true" alt="Jacian's github stats" />
 </a>
 
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=JacianLiu&hide_title=false&hide_border=true&layout=compact&theme=graywhite&locale=cn)
