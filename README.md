@@ -3,7 +3,7 @@
 为系统而生，为框架而死，为debug奋斗一辈子； 吃符号的亏，上大小写的当，最后死在子需求上。
 
 - 🌱 职业搬砖，只会Java
-- 🏡 个人主页: <a href="https://blog.jacian.com" target="_blank">Blog</a>|<a href="https://github.com/JacianLiu" target="_blank">GitHub</a>
+- 🏡 个人主页: <a href="https://blog.jacian.com/" target="_blank">Blog</a> | <a href="https://github.com/JacianLiu/" target="_blank">GitHub</a>
 - ✉️ 邮箱: [JacianLiu@gmail.com](mailto:JacianLiu@gmail.com)
 - 📫 电报: <a href="https://t.me/jacian_6" target="_blank">@Jacian_6</a>
 
