@@ -1,6 +1,6 @@
 ## Hi there, I'm [Jacian](https://blog.jacian.com) 👋
 
-为系统而生，为框架而死，为debug奋斗一辈子； 吃符号的亏，上大小写的当，最后死在子需求上。
+为系统而生，为框架而死，为debug奋斗一辈子； 吃符号的亏，上大小写的当，最后死在了需求上。
 
 - 🌱 职业搬砖，爱瞎折腾，只会Java
 - 🏡 个人主页: <a href="https://blog.jacian.com/" target="_blank">Blog</a> | <a href="https://github.com/JacianLiu/" target="_blank">GitHub</a>
